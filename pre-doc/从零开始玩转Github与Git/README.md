@@ -67,7 +67,7 @@ Git 是底层的版本控制工具，负责本地代码的版本管理和操作�
 2. 左侧栏选择网络加速
 3. 勾选 Github
 4. 点击右上角的**一键加速**按钮
-5. 访问 Github （https://github.com/）测试 。
+5. 访问 Github （ https://github.com/ ）测试 。
 
 在软件的**流量统计**选项卡可以看到流量经过该软件代理，现在我们使用Github的速度比以前快了很多。
 
@@ -77,7 +77,7 @@ Git 是底层的版本控制工具，负责本地代码的版本管理和操作�
 
 ## 4.1 注册
 
-1. 访问 Github（https://github.com/）
+1. 访问 Github（ https://github.com/ ）
 
 2. 右上角点击`Sign up` 注册
 3. 填写自己的邮箱 - 点击`Continue`继续
@@ -97,7 +97,7 @@ Git 是底层的版本控制工具，负责本地代码的版本管理和操作�
 
 ## 4.2 简单编辑个人主页
 
-至此我们已经成功登录进来了，在浏览器输入：https://github.com/NicholasHao，github.com/后面是你的英文名回车访问，这里就是自己的主页了，在这里可以编辑自己的头像、个人介绍等等。
+至此我们已经成功登录进来了，在浏览器输入：https://github.com/NicholasHao ，github.com/后面是你的英文名回车访问，这里就是自己的主页了，在这里可以编辑自己的头像、个人介绍等等。
 
 ## 4.3 配置双重身份验证
 
@@ -263,13 +263,13 @@ Closed 则是指的已经解决的Bug或已经结束的议题。
 
 ### 4.5.1 GitHub 汉化插件
 
-https://github.com/maboloshi/github-chinese
+[Github项目 - github-chinese](https://github.com/maboloshi/github-chinese)
 
 这个用于汉化Github的界面，在项目的说明里面有它的使用方法
 
 ### 4.5.2 沉浸式翻译
 
-[https://chromewebstore.google.com/detail/沉浸式翻译-网页翻译插件-pdf翻译-免费/bpoadfkcbjbfhfodiogcnhhhpibjhbnh](https://chromewebstore.google.com/detail/沉浸式翻译-网页翻译插件-pdf翻译-免费/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+[谷歌浏览器插件 - 沉浸式翻译](https://chromewebstore.google.com/detail/沉浸式翻译-网页翻译插件-pdf翻译-免费/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
 
 这是个浏览器插件，可以用于翻译整个网页（我主要用来翻译看不太懂的README文件）。 
 
@@ -317,7 +317,7 @@ View file in different branch/tag 查看不同分支/标签中的文件 快捷�
 
 https://github.com/explore
 
-![image-20250212072638712](C:/Users/Nicholas/Desktop/MyGit/my.git/my/pre-doc/从零开始玩转GithubGit/IMG/image-20250212072638712.png)
+![image-20250212072638712](./IMG/image-20250212072638712.png)
 
 左边是你的星标主题、星标仓库
 
@@ -335,7 +335,7 @@ https://github.com/search
 
 这个是Github的搜索页面，我们可以在这里搜索感兴趣的项目，比如说这里用WeChat举例
 
-![image20250212073617](C:/Users/Nicholas/Desktop/MyGit/my.git/my/pre-doc/从零开始玩转GithubGit/IMG/微信图片_20250212073617.png)
+![image20250212073617](./IMG/image_20250212073617.png)
 
 右上方的Sort by是排序方式，默认是最佳匹配，我们可以切换到Most stars来查看最多人星标的项目。
 
