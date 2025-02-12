@@ -392,44 +392,83 @@ https://github.com/search
 ![image-20250212080158928](./IMG/image-20250212080158928.png)
 
 这里列出了很多很多的选项
+
 **Advanced options - 高级选项**
+
 From these owners - 指定作者
+
 In these repositories - 指定仓库
+
 Created on the dates - 创建日期
+
 Written in this language - 使用语言
 
+---
+
 **Repositories options - 仓库选项**
+
 With this many stars  - 指定星标数
+
 With this many forks - 指定复刻数
+
 Of this size - 仓库大小
+
 Pushed to - 推送于
+
 With this license - 用何种许可证
+
 Return repositories not/and/only including forks. - 搜索结果 不/要/仅 包括复刻仓库
 
+---
+
 **Code options - 代码选项**
+
 With this extension - 文件后缀
+
 In this path - 文件路径
+
 With this file name - 文件名称
+
 Return code not/and/only including forks. - 搜索结果 不/要/仅 包括复刻仓库
 
+---
+
 **Issues options - 议题选择**
+
 In the state - 议题状态
+
 With the reason - 原因
+
 With this many comments - 评论数量
+
 With the labels - 议题标签
+
 Opened by the author - 提议人
+
 Mentioning the users - 提及谁
+
 Assigned to the users - 分配给谁
+
 Updated before the date - 更新于
 
+---
+
 **Users options - 用户选项**
+
 With this full name - 用户全称
+
 From this location - 来自哪里
+
 With this many followers - 有多少关注者
+
 With this many public repositories - 有多少公共仓库
+
 Working in this language - 擅长什么语言
 
+---
+
 **Wiki options - Wiki选项**
+
 Updated before the date - 更新于
 
 当你在下方输入搜索条件的时候可以看到上方的搜索栏也同时会生成对应的搜索语句，在搜索页面我们时候这个搜索语句同样可以达成高级搜索的功能，如果你能记住这个语法的话。
@@ -503,8 +542,11 @@ Github有三种方式可以保留它的源代码。
 最后一种办法就是下载源码运行，不过这个方法需要一定的编程基础知识，不过一般有几个通用流程。
 
 1. 下载代码
+
 2. 安装运行环境
+
 3. 安装依赖
+
 4. 找到入口文件，启动
 
 还有就是仔细阅读README文档，一般都有介绍如何部署运行以及常见问题。
