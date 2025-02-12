@@ -70,7 +70,7 @@ Tagger是一个插件，在新版的整合包内也帮你装好了，可以在�
 
 在生成图片时候，可以使用x/y图表快速生成不同参数的图片进行对比。
 
-![img](https://i1.hdslb.com/bfs/article/456eaae597537923aa9bf17bb226cf146e2a6871.png@1192w.webp)
+![img](./IMG/05.webp)
 
 一个图表示例，常用做对比图
 
